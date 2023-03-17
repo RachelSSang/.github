@@ -2,6 +2,9 @@
 
 ### Trello with only Vanilla Javascript and Mouse Event
 <div> 오직 바닐라 자바스크립트만을 사용하여 Trello를 클론한 사이트입니다.</div>
+
+[👉배포링크 바로가기](https://rachelssang.github.io/pair-programming-2/)
+<br>
 <br>
 
 ## 🤔 목적
@@ -49,8 +52,5 @@
 
 
 <br>
-
-## ⭐ 최종 결과
-
 
 
